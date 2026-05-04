@@ -29,9 +29,6 @@ Thumbs.db
 # Variabili d'ambiente
 .env
 
-# Dataset (opzionale, se pesanti)
-data/*.csv
-
 # Build e packaging
 dist/
 build/
