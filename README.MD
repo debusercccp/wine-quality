@@ -70,7 +70,7 @@ streamlit run app.py
 ```
 Demo
 ```
-0
+https://wine-quality-rwrzfnvs2wwssqbsbq9qrs.streamlit.app/
 ```
 ---
 ## Funzionalità principali:
