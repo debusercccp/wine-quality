@@ -1,0 +1,41 @@
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# File temporanei
+*.log
+
+# Variabili d'ambiente
+.env
+
+# Dataset (opzionale, se pesanti)
+data/*.csv
+
+# Build e packaging
+dist/
+build/
+*.egg-info/
+
+# Matplotlib cache
+.matplotlib/
