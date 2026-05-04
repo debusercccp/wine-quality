@@ -84,15 +84,14 @@ https://wine-quality-rwrzfnvs2wwssqbsbq9qrs.streamlit.app/
 ---
 ## Note:
 
-Il dataset deve essere presente nella cartella data/
-Il modello viene addestrato dinamicamente dall'app
-Le feature vengono generate nel modulo features.py
-Possibili miglioramenti
-Deploy su Streamlit Cloud
-Aggiunta di altri modelli ML
-Dashboard più avanzata
-Persistenza del modello
-Ottimizzazione iperparametri
+- Il dataset deve essere presente nella cartella data.
+- Il modello viene addestrato dinamicamente dall'app
+- Le feature vengono generate nel modulo features.py
+-Possibili miglioramenti:
+   - Deploy su Streamlit Cloud
+   - Aggiunta di altri modelli ML
+   - Dashboard più avanzata
+   - Ottimizzazione iperparametri
  ---
 ## Autore
 ### Rocco Tarantino
