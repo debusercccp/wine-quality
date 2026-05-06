@@ -3,9 +3,9 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import pandas as pd
 
-from scr.data_loader import load_data
-from scr.features import add_features
-from scr.model import train_model
+from src.data_loader import load_data
+from src.features import add_features
+from src.model import train_model
 
 # ---------------------------------------------------------------
 # Configurazione Streamlit
