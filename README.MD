@@ -87,7 +87,7 @@ https://wine-quality-rwrzfnvs2wwssqbsbq9qrs.streamlit.app/
 - Il dataset deve essere presente nella cartella data.
 - Il modello viene addestrato dinamicamente dall'app
 - Le feature vengono generate nel modulo features.py
--Possibili miglioramenti:
+- Possibili miglioramenti:
    - Deploy su Streamlit Cloud
    - Aggiunta di altri modelli ML
    - Dashboard più avanzata
