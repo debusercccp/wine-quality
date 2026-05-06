@@ -68,10 +68,10 @@ Avvia l'app Streamlit:
 ```
 streamlit run app.py
 ```
-Demo
-```
+### Demo
+
 https://wine-quality-rwrzfnvs2wwssqbsbq9qrs.streamlit.app/
-```
+
 ---
 ## Funzionalità principali:
 - Filtri dinamici (tipo di vino e qualità)
