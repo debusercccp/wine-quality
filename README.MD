@@ -25,7 +25,7 @@ Questo progetto permette di:
 wine-quality/
 │
 ├── app.py
-├── scr/
+├── src/
 │ ├── data_loader.py
 │ ├── features.py
 │ └── model.py
